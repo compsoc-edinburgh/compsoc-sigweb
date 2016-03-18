@@ -8,7 +8,7 @@ SIG: Web is a Special Interest Group of CompSoc, centered around re-building the
 This page lists some first ideas around what we might need/want for the website, until we can put together a first formal meeting, which will probably be late May / early June 2016.
 
 ## Join us <a href="https://www.irccloud.com/invite?channel=%23sigweb&amp;hostname=irc.imaginarynet.uk&amp;port=6697&amp;ssl=1" target="_blank"><img src="https://www.irccloud.com/invite-svg?channel=%23sigweb&amp;hostname=irc.imaginarynet.uk&amp;port=6697&amp;ssl=1"  height="18"></a>
-We hang out in #sigweb on Imaginarynet (irc.imaginarynet.uk). You will find me (@hreeder) as `tbrb` in there and Will (@neanias) as `neanias` or `sneanias`.
+We hang out in #sigweb on Imaginarynet (irc.imaginarynet.uk). You will find me (@hreeder) as `tbrb` in there and Will (@neanias) as `neanias` or `sneanias` and also Josh (@Milk1337) is here too as `M1LK`!
 
 ## Ideas
 What follows are some of the key features we have already identified for needs of the new website

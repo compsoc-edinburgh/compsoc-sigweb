@@ -1,8 +1,12 @@
-# compsoc-sigweb
-SIG: Web, Making the Web(site) Great Again
+# SIG: Web - website2016
+SIG: Web, Making the Web(site) Great Again.
 
 ## What is SIG: Web
 SIG: Web is a Special Interest Group of CompSoc, centered around re-building the CompSoc website.
+
+## Goals
+* Building & maintaining the new website
+* Exploring interesting web technologies, where implementations of which could benefit CompSoc and members (where implementations would be at the discretion of CompSoc's current technical secretary)
 
 ## Sounds good, what now?
 This page lists some first ideas around what we might need/want for the website, until we can put together a first formal meeting, which will probably be late May / early June 2016.

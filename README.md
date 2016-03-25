@@ -7,6 +7,7 @@ SIG: Web is a Special Interest Group of CompSoc, centered around re-building the
 ## Goals
 * Building & maintaining the new website
 * Exploring interesting web technologies, where implementations of which could benefit CompSoc and members (where implementations would be at the discretion of CompSoc's current technical secretary)
+* Help members to learn web technologies and web development best practices
 
 ## Sounds good, what now?
 This page lists some first ideas around what we might need/want for the website, until we can put together a first formal meeting, which will probably be late May / early June 2016.

@@ -22,6 +22,7 @@ Harry | [@hreeder](https://github.com/hreeder) | `tbrb`
 Will | [@neanias](https://github.com/neanias) | `neanias` or `sneanias`
 Josh | [@Milk1337](https://github.com/Milk1337) | `M1LK`
 AngusP | [@AngusP](https://github.com/AngusP) | `angusp`
+James | [@JFriel](https://github.com/JFriel) | `taggenblu`
 
 ## Ideas
 What follows are some of the key features we have already identified for needs of the new website

@@ -1,6 +1,8 @@
 # SIG: Web - website2016
 SIG: Web, Making the Web(site) Great Again.
 
+AKA the New New New CompSoc website
+
 ## What is SIG: Web
 SIG: Web is a Special Interest Group of CompSoc, centered around re-building the CompSoc website.
 

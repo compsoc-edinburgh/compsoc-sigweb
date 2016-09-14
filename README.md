@@ -1,12 +1,15 @@
 # SIG: Web - website2016
 SIG: Web, Making the Web(site) Great Again.
 
+AKA the New New New CompSoc website
+
 ## What is SIG: Web
 SIG: Web is a Special Interest Group of CompSoc, centered around re-building the CompSoc website.
 
 ## Goals
 * Building & maintaining the new website
 * Exploring interesting web technologies, where implementations of which could benefit CompSoc and members (where implementations would be at the discretion of CompSoc's current technical secretary)
+* Help members to learn web technologies and web development best practices
 
 ## Sounds good, what now?
 This page lists some first ideas around what we might need/want for the website, until we can put together a first formal meeting, which will probably be late May / early June 2016.
@@ -23,6 +26,8 @@ Who | Github | IRC
 Harry | [@hreeder](https://github.com/hreeder) | `tbrb`
 Will | [@neanias](https://github.com/neanias) | `neanias` or `sneanias`
 Josh | [@Milk1337](https://github.com/Milk1337) | `M1LK`
+AngusP | [@AngusP](https://github.com/AngusP) | `angusp`
+James | [@JFriel](https://github.com/JFriel) | `taggenblu`
 
 ## Ideas
 What follows are some of the key features we have already identified for needs of the new website

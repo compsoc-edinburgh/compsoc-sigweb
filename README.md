@@ -3,6 +3,18 @@ SIG: Web, Making the Web(site) Great Again.
 
 AKA the New New New CompSoc website
 
+# The Dev Site
+This is the new website. It uses Jekyll. It also works nicely with Docker.
+
+## How to run?
+If you use Linux, run `preview.sh`. It will automatically build, server and watch the directory for changes. It will listen on port 4000.
+
+If you're on Mac or Windows, please contribute some instructions. You'll hopefully be able to read `preview.sh` and adapt the commands to play nice with docker-machine, or native Docker if that's your thing.
+
+### Running without Docker
+I'd love someone to contribute instructions on how to run this natively without docker too. That would be awesome. 
+
+# About the SIG
 ## What is SIG: Web
 SIG: Web is a Special Interest Group of CompSoc, centered around re-building the CompSoc website.
 

@@ -1,11 +1,11 @@
 # Contributing
 
-Having trouble working with the theme? Found a typo in the documentation? Interested in adding a feature or [fixing a bug](https://github.com/mmistakes/minimal-mistakes/issues)? Then by all means [submit an issue](https://github.com/mmistakes/minimal-mistakes/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
+## Pages
+* Pages should go in the `_pages` folder.
+* All pages should have, at minimum, a permalink in their header information. See `_pages/about.md` for an example.
 
-Minimal Mistakes has been designed as a base for you to customize and fit your site's unique needs. Please keep this in mind when requesting features and/or submitting pull requests. If it's not something that most people will use, I probably won't consider it. When in doubt ask. 
-
-This goes for author sidebar links and "share button" additions -- I have no intention of merging in every possibly option, the essentials are there to get you started :smile:.
-
-## Pull Requests
-
-To help me out try to avoid creating pull requests on `master` and instead branch off of `develop`. It's much easier for me to test, merge, and roll them into new releases this way.
+## Posts
+* Posts go in the `_posts` folder.
+* Posts get named in the scheme `YEAR-Month-Day-Title.md` (ie `2016-09-14-Test.md`). No spaces in the filename.
+* If this is your first post, add an entry in `_data/authors.yml` with some info about yourself. See `_config.yml` for a full list of attributes you can assign yourself.
+* Ensure you have appropriate header information. At minimum this should include author information.

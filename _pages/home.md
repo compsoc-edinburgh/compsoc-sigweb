@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Welcome to CompSoc
 permalink: /
 header:
   overlay_color: "#5e616c"
@@ -16,7 +17,6 @@ intro:
   <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompsoc&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 </div>
 
-# Welcome to CompSoc
 This is the official website of The University of Edinburgh Artificial Intelligence and Computing Society, aka CompSoc. If you want to know more about who we are please take a look at the about page. The site is completely new, after having lost much of our old one we decided to make a new one!
 
 Anyway you're probably itching to grab the valuable information and latest updates on CompSoc's activities, so go ahead and explore!

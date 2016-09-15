@@ -5,8 +5,6 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: https://media.licdn.com/media/p/1/005/05a/15d/21fd59b.png
-  cta_label: "<i class='fa fa-download'></i> Join Today"
-  cta_url: "/docs/quick-start-guide/"
   caption:
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'

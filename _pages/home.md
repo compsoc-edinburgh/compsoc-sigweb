@@ -7,13 +7,16 @@ header:
   cta_label: "<i class='fa fa-download'></i> Join Today"
   cta_url: "/docs/quick-start-guide/"
   caption:
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
 
-# Welcome to Comp Soc
+<div class="sidebar__right">
+  <a class="twitter-timeline" data-height="250" href="https://twitter.com/CompSoc">Tweets by CompSoc</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompsoc&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</div>
+
+# Welcome to CompSoc
 This is the official website of The University of Edinburgh Artificial Intelligence and Computing Society, aka CompSoc. If you want to know more about who we are please take a look at the about page. The site is completely new, after having lost much of our old one we decided to make a new one!
 
 Anyway you're probably itching to grab the valuable information and latest updates on CompSoc's activities, so go ahead and explore!

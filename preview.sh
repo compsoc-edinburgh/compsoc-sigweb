@@ -23,7 +23,7 @@ echo "***********************************************************"
 
 # Start Jekyll and watch for changes
 docker run --rm \
-  --volume=$(pwd):/src \
+  --volume=$(pwd):/src:Z \
   --publish 4000:4000 \
   $DOCKER_IMAGE_NAME \
   serve --watch --drafts -H 0.0.0.0

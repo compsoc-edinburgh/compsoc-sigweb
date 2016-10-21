@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "About"
+    url: /about
+
+  - title: "Latest Updates"
+    url: /posts
+
+  - title: "Sponsors"
+    url: /sponsors
+
+  - title: IRC
+    url: /irc
+
+  - title: FAQ
+    url: /faq

@@ -1,0 +1,9 @@
+$col_width3 : percentage(1/3);
+.sponsors3{
+    //3 wide sponsors
+    @include clearfix;
+    margin: 0 auto;
+    > img{
+        width: $col_width3 - 1%;
+    }
+}

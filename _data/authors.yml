@@ -29,3 +29,16 @@ Cornelius Fiddlebone:
   bio: "I ordered what?"
   avatar: "bio-photo.jpg"
   twitter: "rhymeswithsackit"
+
+qaisjp:
+  name: "Qais Patankar"
+  uri: "https://qaisjp.com"
+  email: "freshersrep@comp-soc.com"
+  bio: "I am the fresher..."
+  avatar: "https://secure.gravatar.com/avatar/7ad38b14cd24361ef0bf8ed757ce8a83?s=200"
+  twitter: "qaisjp"
+  github: "qaisjp"
+
+josh:
+  name: "Joshua Green"
+  avatar: "https://secure.gravatar.com/avatar/076d6a75f892faff83d9ce086827f5bd?s=200"

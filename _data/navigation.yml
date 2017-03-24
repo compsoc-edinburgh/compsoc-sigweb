@@ -12,5 +12,5 @@ main:
   - title: IRC
     url: /irc
 
-  - title: FAQ
-    url: /faq
+#  - title: FAQ
+#    url: /faq

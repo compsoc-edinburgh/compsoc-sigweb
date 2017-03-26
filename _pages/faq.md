@@ -2,16 +2,16 @@
 permalink: /faq
 ---
 
-# WHAT IS COMPSOC?
+# What is CompSoc?
 
 We have [an about page](/about)! You can find it on one of the tabs above.
 
-# WHAT IS THE BEST PROGRAMMING LANGUAGE TO LEARN FIRST? WHAT DO YOU GUYS RECOMMEND?
+# What is the best programming language to learn first? What do you recommend?
 
 This is not an easy question to answer because each language is suited for performing different
 tasks, and very often one language can perform the exact same thing as another (with about the same
 effort). However with the relatively recent and strong popularity of OOP based languages, it would
-be good to start on one of those just to get your feet wet. For this purpose Python and JavaScript
+be good to start on one of those just to get your feet wet. For this purpose **Python** and **JavaScript**
 are good candidates because they are amongst the most popular languages for beginning programmers
 and have entire libraries of introductory books on them. The more daring would plunge off into C++
 which maybe hard to use and timely to create programs in, but you will really begin to appreciate
@@ -22,7 +22,7 @@ through Haskell and Java.
 Not an Informatics Student? No problem there's loads of ways to learn computing, hey you can start
 here!
 
-# WHAT IS AN STMU?
+# What is an stmu?
 
 STMU is short for Student Tech Meet Up, a monthly meeting held by CompSoc in which we invite
 industry experts, our academic staff and members of CompSoc to hold talks on computing topics. Some
@@ -33,7 +33,7 @@ related, occasionally we may have talks on issues computing technologies have in
 nontechnical-more-ethical manner, we may hold talks on teamwork methods for development teams, pass
 advice from successful start ups.
 
-# WHAT ARE THE WORKSHOPS THAT COMPSOC HOST, WHAT KIND ARE THERE?
+# What are the workshops that CompSoc host, what kind are there?
 
 Workshops are much like our STMUs except they are more oriented at expanding already present skills
 or introducing new ones in interactive fashion. To give an example there may be Haskell workshops
@@ -44,7 +44,7 @@ common development tools like git or nmap.
 Workshops are organised by volunteer members in CompSoc, so please look out in the events/news page
 for announcements.
 
-# WHAT ARE HACKATHONS?
+# What are hackathons?
 
 Hackathons are often the most exciting times for CompSoc as this is the time when many of our
 members come together and compete to produce code in a set amount of time. Hackathon participants

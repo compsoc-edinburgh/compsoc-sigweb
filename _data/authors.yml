@@ -1,11 +1,6 @@
-tbrb:
-  name: "Harry Reeder"
-  uri: "http://harryreeder.co.uk/"
-  email: "harry@harryreeder.co.uk"
-  bio: "I build stuff"
-  avatar: "http://www.gravatar.com/avatar/882fea3f994a649328155e5ab2316b7f?s=200"
-  twitter: "harry_reeder"
-  github: "hreeder"
+josh:
+  name: "Joshua Green"
+  avatar: "https://secure.gravatar.com/avatar/076d6a75f892faff83d9ce086827f5bd?s=200"
 
 neanias:
   name: 'Will Mathewson'
@@ -23,6 +18,11 @@ qaisjp:
   twitter: "qaisjp"
   github: "qaisjp"
 
-josh:
-  name: "Joshua Green"
-  avatar: "https://secure.gravatar.com/avatar/076d6a75f892faff83d9ce086827f5bd?s=200"
+tbrb:
+  name: "Harry Reeder"
+  uri: "http://harryreeder.co.uk/"
+  email: "harry@harryreeder.co.uk"
+  bio: "I build stuff"
+  avatar: "http://www.gravatar.com/avatar/882fea3f994a649328155e5ab2316b7f?s=200"
+  twitter: "harry_reeder"
+  github: "hreeder"
